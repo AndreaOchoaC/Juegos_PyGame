@@ -1,18 +1,8 @@
-# TÍTULO
-## Subtítulo
-### Título 3
+# Juegos con PyGame
 
----
-Estoy haciendo una edición 
----
+Aquí se almacenan los juegos desarrollados por el curso de Python Start 2 usando la librería PyGame.
 
-# nombre_de_usuario
-Este será nuestro repositorio de prueba. Recuerden que para su presentación, el nombre del repositorio debe ser IGUAL al nombre de usuario.
-
-## En este archivo trabajamos con algo llamado MARKDOWN, esa es la manera de poner títulos, subtítulos y secciones en nuestro documento.
-
-**¡También pueden agregar emojis!!** 🤗 🦕
-
-Usamos un asterisco * para poner texto en *itálicas* y dos asteriscos ** para ponerlo en **negritas**. 
+1. **Simple Paint**
+2. **Atrapa la tortuga**
 
 https://www.webfx.com/tools/emoji-cheat-sheet/
