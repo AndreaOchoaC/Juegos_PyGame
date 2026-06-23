@@ -43,7 +43,8 @@ def draw_instructions():
 
 # Main loop
 
-while True:
+running = True
+while running:
     for event in pygame.event.get():
         # pygame.quit() es lo opuesto a pygame.init(), reinicia todo y sale del juego
         if event.type == pygame.QUIT:
